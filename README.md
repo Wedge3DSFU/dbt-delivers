@@ -4,7 +4,7 @@
 ## Markdown Cheat Sheet
 [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 
-## Test titre2
+## Mises en page
 **bold text**
 *italicized text*
 
