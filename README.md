@@ -8,6 +8,10 @@
 **bold text**
 *italicized text*
 
+
+test 
+test 2
+
 > blockquote
 tralala
 
